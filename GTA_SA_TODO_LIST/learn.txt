@@ -1,0 +1,5 @@
+learning 
+importing online fonts
+setting backgrounds and keeping it static
+how to use audio while you type each key and hover above elements
+dom manipulation
